@@ -36,14 +36,6 @@ The goal is to present Netflix data in a visually intuitive and interactive form
 │   └── country_map.png
 └── README.md
 
-
-## 📸 Screenshots
-
-### **Main Dashboard**
-
-![Main Dashboard](screenshots/main_dashboard.png)
-
-
 ## 🛠 Tools Used
 
 * Tableau Desktop
