@@ -17,25 +17,6 @@ The dashboard provides a clear breakdown of:
 
 The goal is to present Netflix data in a visually intuitive and interactive format.
 
----
-
-## 📁 Project Structure
-
-
-/
-├── tableau/
-│   └── netflix.twb
-├── data/
-│   └── netflix_titles.csv
-├── screenshots/
-│   ├── main_dashboard.png
-│   ├── ratings.png
-│   ├── top10_genre.png
-│   ├── distribution.png
-│   ├── movies_by_year.png
-│   └── country_map.png
-└── README.md
-
 ## 🛠 Tools Used
 
 * Tableau Desktop
