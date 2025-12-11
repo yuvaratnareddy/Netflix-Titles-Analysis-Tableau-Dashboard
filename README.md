@@ -2,8 +2,6 @@
 
 An interactive Tableau dashboard visualizing Netflix content trends, including genres, ratings, global distribution, and yearly release patterns.
 
----
-
 ## 📌 Overview
 
 This project analyzes the **Netflix Titles Dataset** using Tableau to uncover key insights about the platform’s content library.
